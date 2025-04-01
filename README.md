@@ -1,4 +1,4 @@
-# optimizing-divvy-bike-share-system (From 2021 - 2025)
+# Optimizing Divvy Bike Share System (From 2021 - 2025)
 
 ## Rider Behavior & Station Utilization Analysis
 Project Objective:
