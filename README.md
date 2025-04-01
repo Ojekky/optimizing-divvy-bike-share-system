@@ -15,3 +15,7 @@ Systems Data Page: https://divvybikes.com/system-data
 Data being shared: Trip, Station, Membership, Ridership
 
 Creating a pipeline for processing this dataset and putting it to a datalake, we will be using kestra.
+
+# Using Kestra 
+I was able to upload the data from year 2021 - 2025 using the ~Kestra/workflow/bike_gcp_kv.yaml for the credentials and ~Kestra/workflow/load_bike_data_gcp.yaml to convert the Zip files first to CSV and then Upload them to the Bucket.
+
