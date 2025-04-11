@@ -19,3 +19,8 @@ Creating a pipeline for processing this dataset and putting it to a datalake, we
 # Using Kestra 
 I was able to upload the data from year 2021 - 2025 using the ~Kestra/workflow/bike_gcp_kv.yaml for the credentials and ~Kestra/workflow/load_bike_data_gcp.yaml to convert the Zip files first to CSV and then Upload them to the Bucket.
 
+![image](https://github.com/user-attachments/assets/9aefa059-d241-47bb-9435-cb18c6e59c9a)
+![image](https://github.com/user-attachments/assets/fc3a1764-3496-4cea-afce-f2f0a0d05449)
+![image](https://github.com/user-attachments/assets/5ffbeda6-7dfe-4cc7-a79a-1af7988b6f21)
+![image](https://github.com/user-attachments/assets/1defe6fb-984f-443c-bdb4-bc685a524157)
+
